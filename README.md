@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Radulf! 👋
 
-<!--
-**Radulf147/Radulf147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Um entusiasta de tecnologia e programação sempre em busca de novos desafios.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Minha Jornada de Contribuições
+
+<div align="center">
+  <img src="https://github.com/Radulf147/Radulf147/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radulf147&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radulf147&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
