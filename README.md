@@ -12,15 +12,15 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Radulf147/Radulf147/gh-pages/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Radulf147/Radulf147/output/github-contribution-grid-snake-dark.svg"
     />
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Radulf147/Radulf147/gh-pages/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/Radulf147/Radulf147/output/github-contribution-grid-snake.svg"
     />
     <img 
-      alt="github contribution grid snake animation" 
-      src="https://raw.githubusercontent.com/Radulf147/Radulf147/gh-pages/github-contribution-grid-snake.svg"
+      alt="Animação da cobrinha de contribuições do GitHub" 
+      src="https://raw.githubusercontent.com/Radulf147/Radulf147/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
