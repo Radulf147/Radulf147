@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Raul Montes Rosales do Nascimento, tenho 21 anos e sou natural do Rio de Janeiro, Campo Grande. estudante de Ciência da Computação na UFRRJ e técnico em Análise e Desenvolvimento de Sistemas pelo Colégio Pedro II. Apaixonado por filosofia, tecnologia e as interseções entre elas. Acompanhe os frutos dessas "neuras" no meu "[Instagram](https://www.instagram.com/raul_nascimento147/)".
+Me chamo Raul Montes, sou do Rio de Janeiro e atualmente atuo como Estagiário de Segurança Cibernética. Minha trajetória une a base técnica do Colégio Pedro II (ADS) com o rigor acadêmico da Ciência da Computação na UFRRJ. Sou movido pela curiosidade filosófica e pelo desafio técnico, busco entender não só como as tecnologias funcionam, mas o porquê de seus impactos na sociedade. Aqui no GitHub, você encontra os frutos das minhas
+neuras transformados em código e pesquisa.
 
 <p align="left">
   <a href="https://github.com/Radulf147?tab=repositories&sort=stargazers">
